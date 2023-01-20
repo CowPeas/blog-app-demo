@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Blog
+This is a simple blog app that uses firestore as the database where the posts are stored. It also allows a sign-in. Users can post or delete blog-posts. 
 
 ## Available Scripts
 
